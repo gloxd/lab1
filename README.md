@@ -78,7 +78,5 @@ concatenate - объединение двух списков (используе
 
 getAtIndex - получение элемента по индексу с обработкой ошибок
 
-tryGetAtIndex - безопасная версия, возвращающая Option
-
 ### Тестирование
 <img width="987" height="502" alt="Screenshot_9" src="https://github.com/user-attachments/assets/d674f3b5-3097-4122-864e-2cb8a0a718aa" />
